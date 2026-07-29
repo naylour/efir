@@ -3,6 +3,13 @@
 name = "efir"
 version = "0.1.0"
 edition = "2024"
-description = "Efir — minimalist radio for your terminal"
+description = "A minimal internet radio for the terminal"
+
+repository = "https://github.com/naylour/efir"
+homepage = "https://github.com/naylour/efir"
+readme = "README.md"
+
+keywords = ["radio", "tui", "terminal", "audio", "music"]
+categories = ["command-line-utilities", "multimedia::audio"]
 
 [dependencies]

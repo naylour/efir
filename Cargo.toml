@@ -1,0 +1,8 @@
+
+[package]
+name = "efir"
+version = "0.1.0"
+edition = "2024"
+description = "Efir — minimalist radio for your terminal"
+
+[dependencies]

@@ -3,5 +3,21 @@
 version = 4
 
 [[package]]
-name = "efir"
+name = "efir-audio"
+version = "0.1.0"
+
+[[package]]
+name = "efir-catalog"
+version = "0.1.0"
+
+[[package]]
+name = "efir-core"
+version = "0.1.0"
+
+[[package]]
+name = "efir-term"
+version = "0.1.0"
+
+[[package]]
+name = "efir-tui"
 version = "0.1.0"
